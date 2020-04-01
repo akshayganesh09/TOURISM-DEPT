@@ -1,0 +1,40 @@
+body 
+    {
+        background-image: url(../backpacker.jpg);
+        background-color: rgba(0, 0, 0, 0.993); 
+        color: rgb(95, 252, 4); 
+        margin: 0px;
+        
+        background-repeat: no-repeat;
+        background-size: auto;
+        animation: bgchange 10s infinite ;
+
+        
+    }
+
+
+  
+
+       
+ 
+
+
+.heading
+{
+    display: flex;
+    color: white;
+    text-align: center; 
+    background-color: rgba(0, 128, 49, 0.096);
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 40px;
+    border-radius: 20px;
+
+
+}
+
+.middle
+{
+    margin-left: 10px;
+}

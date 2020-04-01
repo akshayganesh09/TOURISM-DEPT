@@ -1,0 +1,20 @@
+.container{
+    display: grid;
+    grid-template-columns:  50% 50%;
+}
+
+.container > div{
+    background: rgba(168, 166, 166, 0.644);
+    padding: 1em;
+}
+.container > div:nth-child(odd){
+    background: #ddd;
+}
+.image-size{
+    width: 600px;
+    height: 400px;
+}
+.image-size2{
+    width: 600px;
+    height: 400px;
+}
