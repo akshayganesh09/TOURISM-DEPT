@@ -1,0 +1,27 @@
+*{
+    color: #fff;
+}
+.bg{
+    background: url("../kera.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.form-container h1{
+    /* text-shadow: 2px 2px 5px; */
+    padding-top: 0px;
+    padding-bottom: 1px;
+    /* background-color: black; */
+    color: white;
+}
+.form-container{
+
+    border: 1px solid #fff;
+    padding: 50px 60px;
+     margin-top: 20vh;
+     -webkit-box-shadow: 17px 21px 15px 4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 17px 21px 15px 4px rgba(0,0,0,0.51);
+    box-shadow: 17px 21px 15px 4px rgba(0,0,0,0.51);
+
+}
